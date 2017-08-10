@@ -40,8 +40,8 @@ Hell yeah! I've added a file that KeyValuePair's certain words with emojis which
 * [grin]
 * [tounge_waggle]
 <br>
-Application comes with around 1,000 pre-made questions that I just read off other peoples posts. You can adapt it to suit your needs, just edit the questions file which is located in the "assets" directory of the exe location.
+Application comes with around 1,000 pre-made questions that I just read off other peoples posts. You can adapt it to suit your needs, just edit the questions file which is located in the "assets" directory of the exe location.<br><br>
 
-I could of just sent a http POST request but they use token so I would rather take the quick option and just run an internal browser embedded into the application. This application isn't an app that you need to worry about speed anyway. If your questions are sent too fast it'll obviously look fake.
+I could of just sent a http POST request but they use token so I would rather take the quick option and just run an internal browser embedded into the application. This application isn't an app that you need to worry about speed anyway. If your questions are sent too fast it'll obviously look fake.<br><br>
 
 Oh yeah, I've also added a setting for delay in the amount of time it takes to send a question and how long it waits between questions. That can also be modified and edited in the configuration file.
