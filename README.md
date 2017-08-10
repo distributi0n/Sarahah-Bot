@@ -4,6 +4,9 @@ Heard of that Social Media site / app that allows you to receive anonymous "cons
 Many people will probably ask why I made this, I was really bored and it seemed so easy to do, I also got asked by some people on snapchat if it was possible and after viewing their source code its shocking how weak their security is.
 
 ## Question Shortcuts
+* [account_name]
+* [your_name]
+* [config_configkey] => This basically means you can get any config element, just name it after [config_ and end with ]
 * [random_name]<br>
 * [random_name_girl]<br>
 * [random_name_guy]<br>
