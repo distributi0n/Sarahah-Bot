@@ -14,3 +14,5 @@ Many people will probably ask why I made this, I was really bored and it seemed 
 * [random_surname_opposite]<br>
 * [random_number_min_max] [random_number_1_10]<br>
 * [random_emoji_times] [random_emoji_3]<br>
+
+Application comes with 1,000 pre-made questions that I just read off other peoples posts. You can adapt it to suit your needs, just edit the /assets/questions.ini file.
