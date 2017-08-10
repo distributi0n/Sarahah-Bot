@@ -3,7 +3,7 @@ Heard of that Social Media site / app that allows you to receive anonymous "cons
 
 Many people will probably ask why I made this, I was really bored and it seemed so easy to do, I also got asked by some people on snapchat so here we go.
 
-Question Commands:<br>
+*Question Commands:*<br>
 [random_name]<br>
 [random_name_girl]<br>
 [random_name_guy]<br>
