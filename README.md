@@ -7,9 +7,9 @@ Many people will probably ask why I made this, I was really bored and it seemed 
 * [random_name]<br>
 * [random_name_girl]<br>
 * [random_name_guy]<br>
-* * [random_name_opposite]<br>
+* [random_name_opposite]<br>
 * [random_surname]<br>
-* * [random_surname_girl]<br>
+* [random_surname_girl]<br>
 * [random_surname_guy]<br>
 * [random_surname_opposite]<br>
 * [random_number_min_max] [random_number_1_10]<br>
