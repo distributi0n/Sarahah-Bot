@@ -47,4 +47,10 @@ Application comes with around 1,000 pre-made questions that I just read off othe
 
 I could of just sent a http POST request but they use token so I would rather take the quick option and just run an internal browser embedded into the application. This application isn't an app that you need to worry about speed anyway. If your questions are sent too fast it'll obviously look fake.<br>
 
-Oh yeah, I've also added a setting for delay in the amount of time it takes to send a question and how long it waits between questions. That can also be modified and edited in the configuration file.
+Oh yeah, I've also added a setting for delay in the amount of time it takes to send a question and how long it waits between questions. That can also be modified and edited in the configuration file.<br><br>
+
+## Version Control
+```
+<b>V0.02</b>
+* added
+```
