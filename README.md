@@ -22,21 +22,21 @@ Many people will probably ask why I made this, I was really bored and it seemed 
 Hell yeah! I've added a file that KeyValuePair's certain words with emojis which can be found below. You can paste the emoji raw but that's just hard work keeping up with changing the emojis in 1 spot. I've added probably about 100 emojis, feel free to add more it really is super easy. Just visit the site and copy+paste into the KeyMapping file. http://getemoji.com/
 
 ## Emoji Key Mapping 
-* [heart] => 💓
-* [heart_black] => 🖤
-* [heart_yellow] => 💛
-* [heart_green] => 💚
-* [heart_blue] => 💙
-* [heart_purple] => 💜
-* [love_eyes] => 😍
-* [kiss] => 😘
-* [wink] => 😉 
-* [crying] => 😪
-* [laughing] => 😭
-* [thumbs] => 👍
-* [thumbs_down] => 👎
-* [devil] => 😈
-* [devil_frowning] => 👿
+* [heart] equals to 💓
+* [heart_black] equals to 🖤
+* [heart_yellow] equals to 💛
+* [heart_green] equals to 💚
+* [heart_blue] equals to 💙
+* [heart_purple] equals to 💜
+* [love_eyes] equals to 😍
+* [kiss] equals to 😘
+* [wink] equals to 😉 
+* [crying] equals to 😪
+* [laughing] equals to 😭
+* [thumbs] equals to 👍
+* [thumbs_down] equals to 👎
+* [devil] equals to 😈
+* [devil_frowning] equals to 👿
 * [angel]
 * [ghost]
 * [sick]
