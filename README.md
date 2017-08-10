@@ -10,7 +10,7 @@ Many people will probably ask why I made this, I was really bored and it seemed 
 * [random_name] => A random name, male or female doesn't matter.<br>
 * [random_name_girl] => A random name, but strictly only a female name.
 * [random_name_guy] => A random name, but strictly only a male name.
-* [random_name_opposite]<br> => A random name, for the gender opposite to yours.
+* [random_name_opposite] => A random name, for the gender opposite to yours.
 * [random_surname] => A random surname, with no strict gender filters.
 * [random_surname_girl] => A random surname, only female ones.
 * [random_surname_guy] => A random surname, only male ones.
