@@ -37,14 +37,14 @@ Hell yeah! I've added a file that KeyValuePair's certain words with emojis which
 * [thumbs_down] equals to 👎
 * [devil] equals to 😈
 * [devil_frowning] equals to 👿
-* [angel]
-* [ghost]
-* [sick]
-* [straight_face]
-* [smile]
-* [frown]
-* [grin]
-* [tounge_waggle]
+* [angel] equals to 😇
+* [ghost] equals to 👻
+* [sick] equals to 🤢
+* [straight_face] equals to 😐
+* [smile] equals to 🙂
+* [frown] equals to 😟
+* [grin] equals to 😁
+* [tounge_waggle] equals to 😋
 <br>
 Application comes with around 1,000 pre-made questions that I just read off other peoples posts. You can adapt it to suit your needs, just edit the questions file which is located in the "assets" directory of the exe location.<br><br>
 
