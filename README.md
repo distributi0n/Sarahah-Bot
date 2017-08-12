@@ -51,3 +51,10 @@ Application comes with around 1,000 pre-made questions that I just read off othe
 I could of just sent a http POST request but they use token so I would rather take the quick option and just run an internal browser embedded into the application. This application isn't an app that you need to worry about speed anyway. If your questions are sent too fast it'll obviously look fake.<br>
 
 Oh yeah, I've also added a setting for delay in the amount of time it takes to send a question and how long it waits between questions. That can also be modified and edited in the configuration file.<br><br>
+
+## Configuration 
+Configuration is pretty simple. You'll have a few "sarahah.X" config elements, they're the ones associated with information relating to the Sarahah account. Below I'll list most of the meanings, but most are self explanatory.
+
+* app.your_name => Used if you just want to refer to yourself.
+* app.message_delay_ms => Delay between sending each message.
+* app.message_delay_ms_random => You'll be able to do min and max random in ms split by :, please BLANK if disabled.
