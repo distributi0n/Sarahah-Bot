@@ -64,5 +64,5 @@ Don't touch this unless you know what you're doing.<br><br>
 
 * app.site_url.landing => The main URL to go to (usually sarahah.com).
 * app.site_url.thank_you => Triggers a redirection to the main URL (page sent to once questions been sent).
-* app.question_area.text_id => The ID attribute of the textarea element, where you place the question text.
+* app.question_area.text_area_id => The ID attribute of the textarea element, where you place the question text.
 * app.question_area.button_id => The ID attribute of the button to click, in order to send the question.
