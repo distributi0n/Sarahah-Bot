@@ -57,4 +57,11 @@ Configuration is pretty simple. You'll have a few "sarahah.X" config elements, t
 
 * app.your_name => Used if you just want to refer to yourself.
 * app.message_delay_ms => Delay between sending each message.
-* app.message_delay_ms_random => You'll be able to do min and max random in ms split by :, please BLANK if disabled.
+* app.message_delay_ms_random => You'll be able to do min and max random in ms split by :, please BLANK if disabled.<br>
+<br>
+<b>Advanced Configuration</b>
+Don't touch this unless you know what you're doing.
+* app.site_url.landing => The main URL to go to (usually sarahah.com).
+* app.site_url.thank_you => Triggers a redirection to the main URL (page sent to once questions been sent).
+* app.question_area.text_id => The ID attribute of the textarea element, where you place the question text.
+* app.question_area.button_id => The ID attribute of the button to click, in order to send the question.
