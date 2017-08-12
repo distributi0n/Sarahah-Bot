@@ -60,7 +60,7 @@ Configuration is pretty simple. You'll have a few "sarahah.X" config elements, t
 * app.message_delay_ms_random => You'll be able to do min and max random in ms split by :, please BLANK if disabled.<br>
 <br>
 <b>Advanced Configuration</b><br>
-Don't touch this unless you know what you're doing.<br>
+Don't touch this unless you know what you're doing.<br><br>
 
 * app.site_url.landing => The main URL to go to (usually sarahah.com).
 * app.site_url.thank_you => Triggers a redirection to the main URL (page sent to once questions been sent).
